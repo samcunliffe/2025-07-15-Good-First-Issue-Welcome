@@ -2,7 +2,7 @@ This repository contains some welcome slides for the 2025-07 "Good first issue w
 
 ## Reuse
 
-Just like everything in [@UCL-ARC/good-first-issue-hackathons](github.com/UCL-ARC/good-first-issue-hackathons) reuse is encouraged if this is helpful for anyone running their own event.
+Just like everything in [@UCL-ARC/good-first-issue-hackathons](https://github.com/UCL-ARC/good-first-issue-hackathons) reuse is encouraged if this is helpful for anyone running their own event.
 The material in this repository is licensed under [CC-by 4.0](https://creativecommons.org/licenses/by/4.0/).
 If you're not a member of UCL, please remove the UCL logo and rebrand for your own purposes!
 
