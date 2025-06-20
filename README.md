@@ -1,21 +1,14 @@
-# UCL talk template with [marp](https://marp.app/)
+This repository contains some welcome slides for the 2025-07 "Good first issue workshop" at the ARC Festival.
 
-This is my very minimalist template for UCL talks using [marp](https://marp.app/)/[marpit](https://marpit.marp.app/).  Anyone in UCL is welcome to use the template! If you're not from UCL then please remove the UCL branding. (But at that point, you're just using the default theme!) Anything else (code, infrastructure, etc) is freely reuseable under [MIT-0](./LICENSE.md).
+## Reuse
 
-## How to use this template
+Just like everything in [@UCL-ARC/good-first-issue-hackathons](github.com/UCL-ARC/good-first-issue-hackathons) reuse is encouraged if this is helpful for anyone running their own event.
+The material in this repository is licensed under [CC-by 4.0](https://creativecommons.org/licenses/by/4.0/).
+If you're not a member of UCL, please remove the UCL logo and rebrand for your own purposes!
 
-1. Follow [the instructions for creating a new repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) (**tl; dr** click on "Use this template").
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" height="31" />
 
-2. Edit [slides.md](./slides.md) to build your talk. 
-    - Follow the excellent [marpit](https://marpit.marp.app/image-syntax) docs for inserting images and backgrounds and split screens etc. Put images in the [assets](./assets) folder.
-    - I recommend the [marp-vscode extension](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) if you use Visual Studio Code.
+Logos are trademarks and have different reuse guidelines:
 
-3. If you push to GitHub there is a [workflow](.github/workflows/marp.yml) to automatically build the talk with [marp-cli](https://github.com/marp-team/marp-cli) and publish the result to a `gh-pages` branch.
-    - Go to the repo settings and enable GitHub pages ([follow from step 5 of these instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)), you should then see your slides at `https://yourusername.github.io/name-of-your-talk-repo`.
-
- If you're not ready or don't want to publish your talk then don't do the final steps.
-
-## Further reading
-
-* [UCL branding instructions](https://www.ucl.ac.uk/staff/external-engagement/brand-and-visual-identity).
-* [UCL banner usage rules](https://www.ucl.ac.uk/brand/brand-essentials/ucl-banner).
+- [The UCL logo](https://www.ucl.ac.uk/brand/brand-essentials/ucl-logo).
+- The Open Source Initiative "Keyhole logo" [usage guidelines](https://opensource.org/logo-usage-guidelines) and [trademark guidelines](https://opensource.org/about/trademark-guidelines).
