@@ -102,9 +102,11 @@ Break up into small groups or pairs. Find something. Work on it.
 
 <center>
 
-# [Link to all of the curated issues]()
+# [Link to all of the curated issues][all]
 
 </center>
+
+[all]: https://github.com/search?q=repo%3AFEniCS%2Fbasix+repo%3AFEniCS%2FFFCx+repo%3AFEniCS%2Fdolfinx+repo%3ADefElement%2FDefElement+org%3ASubmitty++org%3AOpenAstronomy+org%3Aglue-viz%2Fglue+org%3Asunpy+org%3Aastropy+org%3Ayt-project++org%3Aswcarpentry+org%3Acarpentries+org%3Adatacarpentry+org%3Alibrarycarpentry+org%3Abrainglobe+repo%3Apybamm-team%2FPyBaMM+repo%3Ascikit-hep%2Fvector+repo%3Aglass-dev%2Fglass+repo%3Amatplotlib%2Fnapari-matplotlib+label%3A%22good+first+issue%22%2C%22difficulty%3A+easy%22+is%3Aopen+&type=issues
 
 ---
 
