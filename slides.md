@@ -53,8 +53,8 @@ _These_ slides were made using an open-source tool called [Marp](https://github.
 
 - Most (but not all) open source projects develop on [![h:0.9em](assets/gh.svg) GitHub](https://github.com).
 - Most projects are happy to recieve bug reports and code change requests.
-- Some projects have contributor guidelines (either in `README.md` or a dedicated `CONTRIBUTING.md`).
-- Some projects label issues for newcommers as ![h:1em](assets/good-first-issue-label.png) s.
+- Most (but not all) have contributor guidelines (either in `README.md` or a dedicated `CONTRIBUTING.md`).
+- Most (but not all) label issues for newcomers as ![h:1em](assets/good-first-issue-label.png) s.
 
 ## Plan of action
 
@@ -70,7 +70,7 @@ Break up into small groups or pairs. Find something. Work on it.
 
 If a project doesn't have contributor guidelines, a typical workflow is:
 
-1. [Fork] the project's repository, Clone (`git clone`) your fork onto your laptop.
+1. [Fork] the project's repository, clone (`git clone`) your fork onto your laptop.
 2. Fix the issue.
 3. Commit (`git commit`) your fix, push to your fork (`git push`).
 4. Open a [pull request].
@@ -90,7 +90,7 @@ If a project doesn't have contributor guidelines, a typical workflow is:
 
 # If you don't know what to work on
 
-- Think if there is any software you active use that you could contribute to
+- Think if there is any software you actively use that you could contribute to
 - Use https://forgoodfirstissue.github.com
 - We have some helpers who work on open-source projects who have curated a list of ![h:1em](assets/good-first-issue-label.png) s!
 
@@ -98,12 +98,10 @@ If a project doesn't have contributor guidelines, a typical workflow is:
 
 - [The Carpentries]: Markdown and HTML teaching material.
 - [brainglobe]: Python code for neuroinformatics.
-- [FEniCS]: C++ finite-element method toolkit.
 - [`napari`]: Python Qt image viewer.
 
 [The Carpentries]: https://github.com/search?q=label%3A%22good+first+issue%22+is%3Aopen+org%3Aswcarpentry+org%3Acarpentries+org%3Adatacarpentry+org%3Alibrarycarpentry&type=issues
 [brainglobe]: https://github.com/search?q=org%3Abrainglobe+label%3A%22good+first+issue%22++&type=issues&state=open
-[FEniCS]: https://github.com/search?q=repo%3AFEniCS%2Fbasix+repo%3AFEniCS%2FFFCx+repo%3AFEniCS%2Fdolfinx+repo%3ADefElement%2FDefElement+label%3A%22good+first+issue%22+is%3Aopen&type=issues
 [`napari`]: https://github.com/search?q=repo%3Anapari%2Fnapari+repo%3Amatplotlib%2Fnapari-matplotlib+label%3A%22good+first+issue%22%2C%22contribute%3Agood+first+issue%22+is%3Aopen+&type=issues
 
 <center>
