@@ -54,7 +54,7 @@ _These_ slides were made using an open-source tool called [Marp](https://github.
 - Most (but not all) open source projects develop on [![h:0.9em](assets/gh.svg) GitHub](https://github.com).
 - Most projects are happy to recieve bug reports and code change requests.
 - Most (but not all) have contributor guidelines (either in `README.md` or a dedicated `CONTRIBUTING.md`).
-- Most (but not all) label issues for newcommers as ![h:1em](assets/good-first-issue-label.png) s.
+- Most (but not all) label issues for newcomers as ![h:1em](assets/good-first-issue-label.png) s.
 
 ## Plan of action
 
