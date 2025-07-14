@@ -17,6 +17,12 @@ at the ARC Festival of Digital Research, Innovation, and Scholarshop. 2025-07-15
 paginate: true
 -->
 
+![bg right fit](assets/qr-code.svg)
+
+# [bit.ly/first-open](https://bit.ly/first-open)
+
+---
+
 # What
 
 - Software source (and often development) is public.
@@ -78,21 +84,13 @@ If a project doesn't have contributor guidelines, a typical workflow is:
 [Fork]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
 [pull request]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 
-<center>
-
-# [bit.ly/first-open](https://bit.ly/first-open)
-
-</center>
-
 ---
-
-<!-- FIXME: add a selfie here! -->
 
 # If you don't know what to work on
 
-- Think if there is any software you actively use that you could contribute to
-- Use https://forgoodfirstissue.github.com
-- We have some helpers who work on open-source projects who have curated a list of ![h:1em](assets/good-first-issue-label.png) s!
+- Think if there is any software you actively use that you could contribute to.
+- Use [ForGoodFirstIssue](https://forgoodfirstissue.github.com).
+- We have some helpers who work on open-source projects, they are very willing to a list of ![h:1em](assets/good-first-issue-label.png) s!
 
 ## Projects
 
@@ -114,11 +112,11 @@ If a project doesn't have contributor guidelines, a typical workflow is:
 
 ---
 
-![bg right](assets/ss-issue.png)
+![bg right 90%](assets/outcomes-issue.png)
 
 # End
 
-If you're comfortable, please add a comment to [this issue](https://github.com/UCL-ARC/good-first-issue-hackathons/issues/4) with the URL(s) to any pull requests or issues you've created in this workshop!
+If you're comfortable, please add a comment to [this issue](https://github.com/UCL-ARC/good-first-issue-hackathons/issues/6) with the URL(s) to any pull requests or issues you've created in this workshop!
 
 Thanks for coming!
 Sorry that there wasn't much time!
