@@ -88,27 +88,30 @@ If a project doesn't have contributor guidelines, a typical workflow is:
 
 # If you don't know what to work on
 
-- Think if there is any software you actively use that you could contribute to.
-- Use [ForGoodFirstIssue](https://forgoodfirstissue.github.com).
-- We have some helpers who work on open-source projects, they are very willing to a list of ![h:1em](assets/good-first-issue-label.png) s!
-
-## Projects
-
-- [The Carpentries]: Markdown and HTML teaching material.
-- [brainglobe]: Python code for neuroinformatics.
-- [`napari`]: Python Qt image viewer.
+- Is any software you actively use that you could contribute to?
+- Browse [ForGoodFirstIssue](https://forgoodfirstissue.github.com).
+- We have some helpers who work on open-source projects, they are very willing to help you with their lists of ![h:1em](assets/good-first-issue-label.png) s!
+  - [The Carpentries]: Markdown and HTML teaching material.
+  - [brainglobe]: Python code for neuroinformatics.
+  - [`napari`]: Python Qt image viewer.
+  - [`matplotlib`]: Plotting in Python.
 
 [The Carpentries]: https://github.com/search?q=label%3A%22good+first+issue%22+is%3Aopen+org%3Aswcarpentry+org%3Acarpentries+org%3Adatacarpentry+org%3Alibrarycarpentry&type=issues
 [brainglobe]: https://github.com/search?q=org%3Abrainglobe+label%3A%22good+first+issue%22++&type=issues&state=open
 [`napari`]: https://github.com/search?q=repo%3Anapari%2Fnapari+repo%3Amatplotlib%2Fnapari-matplotlib+label%3A%22good+first+issue%22%2C%22contribute%3Agood+first+issue%22+is%3Aopen+&type=issues
+[`matplotlib`]: https://github.com/search?q=repo%3Amatplotlib%2Fmatplotlib+%2817479+OR+21898+OR+9970%29+type%3Aissue+is%3Aopen+&type=issues
 
-<center>
+Or, if you want an easy first contribution without searching through issues:
+
+- [`matplotlib` issue #30306](https://github.com/matplotlib/matplotlib/issues/30306)
+
+<!--center>
 
 # [Link to all of the curated issues][all]
 
-</center>
+</center-->
 
-[all]: https://github.com/search?q=repo%3AFEniCS%2Fbasix+repo%3AFEniCS%2FFFCx+repo%3AFEniCS%2Fdolfinx+repo%3ADefElement%2FDefElement+org%3ASubmitty++org%3AOpenAstronomy+org%3Aglue-viz%2Fglue+org%3Asunpy+org%3Aastropy+org%3Ayt-project++org%3Aswcarpentry+org%3Acarpentries+org%3Adatacarpentry+org%3Alibrarycarpentry+org%3Abrainglobe+repo%3Apybamm-team%2FPyBaMM+repo%3Ascikit-hep%2Fvector+repo%3Aglass-dev%2Fglass+repo%3Amatplotlib%2Fnapari-matplotlib+label%3A%22good+first+issue%22%2C%22difficulty%3A+easy%22+is%3Aopen+&type=issues
+[all]: https://github.com/search?q=repo%3Amatplotlib%2Fmatplotlib+org%3Abrainglobe+org%3Aswcarpentry+org%3Acarpentries+org%3Adatbrainglobeacarpentry+org%3Alibrarycarpentry+repo%3Amatplotlib%2Fnapari-matplotlib+repo%3Anapari%2Fnapari+label%3A%22good+first+issue%22%2C%22difficulty%3A+easy%22+is%3Aopen+&type=issues
 
 ---
 
