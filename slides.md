@@ -101,7 +101,7 @@ If a project doesn't have contributor guidelines, a typical workflow is:
 [`napari`]: https://github.com/search?q=repo%3Anapari%2Fnapari+repo%3Amatplotlib%2Fnapari-matplotlib+label%3A%22good+first+issue%22%2C%22contribute%3Agood+first+issue%22+is%3Aopen+&type=issues
 [`matplotlib`]: https://github.com/search?q=repo%3Amatplotlib%2Fmatplotlib+%2817479+OR+21898+OR+9970%29+type%3Aissue+is%3Aopen+&type=issues
 
-### For the non-coders and total beginners:
+Or, if you want an easy first contribution without searching through issues:
 
 - [`matplotlib` issue #30306](https://github.com/matplotlib/matplotlib/issues/30306)
 
