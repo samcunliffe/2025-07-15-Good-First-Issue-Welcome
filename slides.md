@@ -88,7 +88,7 @@ If a project doesn't have contributor guidelines, a typical workflow is:
 
 # If you don't know what to work on
 
-- Is any software you actively use that you could contribute to?
+- Is there any software you actively use that you could contribute to?
 - Browse [ForGoodFirstIssue](https://forgoodfirstissue.github.com).
 - We have some helpers who work on open-source projects, they are very willing to help you with their lists of ![h:1em](assets/good-first-issue-label.png) s!
   - [The Carpentries]: Markdown and HTML teaching material.
