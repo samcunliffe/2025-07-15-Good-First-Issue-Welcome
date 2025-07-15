@@ -9,7 +9,7 @@ theme: default
 
 # First contribution to open-source software workshop
 
-at the ARC Festival of Digital Research, Innovation, and Scholarshop. 2025-07-15
+at the ARC Festival of Digital Research, Innovation, and Scholarship. 2025-07-15
 
 ---
 
